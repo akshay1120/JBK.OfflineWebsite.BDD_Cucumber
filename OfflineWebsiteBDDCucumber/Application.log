@@ -1,35 +1,20 @@
-2021-06-10 01:34:02,807  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:05,066  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:06,671  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:08,117  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:09,465  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:10,965  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:14,372  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:15,794  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:17,011  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:18,434  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:20,209  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:21,663  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:22,811  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:24,388  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:26,365  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:27,883  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:34,703  INFO [main] TestBase:103 - Actual Alert Message = User Added Successfully. You can not see added user.
-2021-06-10 01:34:34,703  INFO [main] TestBase:106 - expected Alert Message = User Added Successfully. You can not see added user.
-2021-06-10 01:34:34,703  INFO [main] TestBase:110 - Actual and expected Alert Message matched
-2021-06-10 01:34:35,948  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:37,365  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:38,950  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:40,315  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:41,883  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:43,274  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:46,427  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:47,831  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:48,922  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:50,441  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:51,127  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:52,716  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:52,924  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:54,517  INFO [main] TestBase:38 - Inserting the Url
-2021-06-10 01:34:55,955  INFO [main] TestBase:33 - Opening the browser
-2021-06-10 01:34:57,455  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:12:50,598  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:12:53,001  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:12:53,365  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:12:54,757  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:12:55,144  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:12:56,582  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:12:57,452  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:12:58,882  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:12:59,231  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:13:00,755  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:13:01,143  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:13:02,702  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:13:03,119  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:13:04,616  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:13:04,985  INFO [main] TestBase:33 - Opening the browser
+2021-06-10 08:13:06,498  INFO [main] TestBase:38 - Inserting the Url
+2021-06-10 08:13:07,794  INFO [main] TestBase:107 - Clicking on Log Out Button
+2021-06-10 08:13:08,191  INFO [main] TestBase:200 - Actual Message = Logout successfully
+2021-06-10 08:13:08,192  INFO [main] TestBase:203 - Expected Message = Logout successfully
+2021-06-10 08:13:08,192  INFO [main] TestBase:207 - Actual and Expected Message matched

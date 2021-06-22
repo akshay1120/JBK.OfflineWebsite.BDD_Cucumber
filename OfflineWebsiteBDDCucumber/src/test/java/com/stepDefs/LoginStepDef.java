@@ -36,7 +36,7 @@ public class LoginStepDef extends TestBase
 	@Given("^user should be on login page$")
 	public void user_should_be_on_login_page() throws Throwable 
 	{
-		driver.get("file:///C:/Offline%20Website/index.html");
+		//driver.get("file:///C:/Offline%20Website/index.html");
 	}
 
 	@Then("^user will get same expected and actual Url$")
@@ -179,8 +179,8 @@ public class LoginStepDef extends TestBase
 	   lp.loginWithAllData(ExcelUtility.readUnameAndPass("Data.xlsx", "LoginWithoutHeading", 0, 1 , 0));
 	}
 
-	@Then("^user will get to know weather data is valid or not$")
-	public void user_will_get_to_know_weather_data_is_valid_or_not() throws Throwable 
+	@Then("^user will get to know wheather data is valid or not$")
+	public void user_will_get_to_know_wheather_data_is_valid_or_not() throws Throwable 
 	{
 		
 	}

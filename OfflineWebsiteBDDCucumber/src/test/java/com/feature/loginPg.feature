@@ -103,4 +103,4 @@ Scenario: Verify Login Data
 
 Given user should be on login page
 When user enters email, password and clicks on Login Button
-Then user will get to know weather data is valid or not
+Then user will get to know wheather data is valid or not
